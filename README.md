@@ -15,7 +15,7 @@ Turkish work flow:
 İşlem kayıtları alınır/kaydedilir>belli bir süre içerisinde yapılmış işlemler içinden kesitler alınır> kullanıcı işlemine geçmişten en yakını bulunur>öneri yapılır
 
 IMPORTANT: 
-Used Sypder ID.
+Used Spyder ID.
 
 2 methods have been used.
 1.	Using Similarity algorithms
