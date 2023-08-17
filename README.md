@@ -14,6 +14,9 @@ Turkish work flow:
 İşlem kayıtları: user log
 İşlem kayıtları alınır/kaydedilir>belli bir süre içerisinde yapılmış işlemler içinden kesitler alınır> kullanıcı işlemine geçmişten en yakını bulunur>öneri yapılır
 
+IMPORTANT: 
+Used Sypder ID.
+
 2 methods have been used.
 1.	Using Similarity algorithms
 Similarity matrix is used.
