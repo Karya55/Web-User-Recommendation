@@ -22,4 +22,7 @@ Used Apriori
 Choose one from the following for installation:
 Install with pip pip install apyori.
 Put apyori.py into your project.
-Run python setup.py install. 
+Run python setup.py install.
+
+Antecedent: This is the set of items that are present in the data and form the basis of the rule. It's the "if" part of the rule.
+Consequent: This is the set of items that are predicted to occur if the antecedent is present. It's the "then" part of the rule.
