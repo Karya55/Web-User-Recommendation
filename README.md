@@ -16,8 +16,13 @@ Turkish work flow:
 2 methods have been used.
 1.	Using Similarity algorithms
 Similarity matrix is used.
+Used mlxtend
+pip install mlxtend
 
-2.	Using Association Rule Mining : Better for this case, because it lookes for past cases 
+2.	Using Association Rule Mining : Better for this case, because it lookes for past cases
+Used mlxtend
+pip install mlxtend
+
 Used Apriori
 Choose one from the following for installation:
 Install with pip pip install apyori.
