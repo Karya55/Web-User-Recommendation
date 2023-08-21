@@ -22,7 +22,7 @@ class RecommendationSystem:
         transactions = [log.split("-")[-1].strip().split() for log in user_logs]
         return pd.DataFrame(transactions)
     
-    def associate_resources(self, df, min_support=0.3, min_confidence=0.7): 
+    def associate_resources(self, df, min_support=0.2, min_confidence=0.5): 
         # Association rule mining with user log's
         data = self.preprocess_data(df)
         frequent_itemsets = apriori(data, min_support=min_support, use_colnames=True)
